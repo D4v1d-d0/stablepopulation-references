@@ -1,7 +1,8 @@
 # References
 
 This repository contains the full bibliographic references used in the
-**StablePopulation** project and associated scientific poster.
+**StablePopulation** project and associated scientific poster MODELING STABLE POPULATIONS THROUGH WEIBULL FUNCTIONS: DEVELOPMENT OF THE R PACKAGE STABLEPOPULATIONS.
+.
 
 ---
 
@@ -48,4 +49,28 @@ Sinclair, A. R. E. (1974).
 ---
 
 These references are cited in abbreviated form in the scientific poster.
-Complete references are provided here and accessed via QR code.
+ 
+
+Rodríguez-Gómez, G., Rodríguez, J., Martín-González, J. A.,
+Goikoetxea, I., & Mateos, A. (2013).
+*Modeling trophic resource availability for the first human settlers
+of Europe: The case of Atapuerca-TD6*.
+**Journal of Human Evolution**, 64, 645–657.
+https://doi.org/10.1016/j.jhevol.2013.02.007
+
+Martín-González, J. A., Rodríguez-Gómez, G., & Palmqvist, P. (2019).
+*Survival profiles from linear models versus Weibull models:
+Estimating stable and stationary population structures for
+Pleistocene large mammals*.
+**Journal of Archaeological Science: Reports**, 25, 370–386.
+https://doi.org/10.1016/j.jasrep.2019.03.031
+
+Rodríguez-Gómez, G., Martín-González, J. A., Espigares, M. P.,
+Bermúdez de Castro, J. M., Martínez-Navarro, B., Arsuaga, J. L.,
+& Palmqvist, P. (2024).
+*From meat availability to hominin and carnivore biomass:
+A paleosynecological approach to reconstructing predator–prey
+biomass ratios in the Pleistocene*.
+**Quaternary Science Reviews**.
+https://doi.org/10.1016/j.quascirev.2023.108474
+
