@@ -46,10 +46,11 @@ Sinclair, A. R. E. (1974).
 *The natural regulation of buffalo populations in East Africa*.
 **African Journal of Ecology**, 12, 185–200.
 
----
+
 
 These references are cited in abbreviated form in the scientific poster.
- 
+
+---
 
 Rodríguez-Gómez, G., Rodríguez, J., Martín-González, J. A.,
 Goikoetxea, I., & Mateos, A. (2013).
